@@ -15,13 +15,13 @@ This investigation sought to find ways of linking museum objects and academic re
 Data curation, formal analysis, investigation, software, visualisation, writing – original draft
 
 **Tim Boon**
-funding acquisition, supervision, conceptualisation, methodology, formal analysis, writing – original draft
+Funding acquisition, supervision, conceptualisation, methodology, formal analysis, writing – original draft
 
 **Stephen Weldon**
-resources, supervision, validation, writing – original draft
+Resources, supervision, validation, writing – original draft
 
 **Nayomi Kasthuri Arachchi**
-writing – review and editing
+Writing – review and editing
 
 
 ## Data Sources
